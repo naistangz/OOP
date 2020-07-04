@@ -22,7 +22,7 @@ while True:
     elif user_input == "-":
         print(Calc.sub())
     elif user_input == "*":
-        print(Calc.multiply)
+        print(Calc.multiply())
     elif user_input == "/":
         print(Calc.divide())
     elif user_input == "0":

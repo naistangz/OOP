@@ -7,7 +7,7 @@ class Simple_Calculator():
     def sub(self):
         return f"{self.num1} - {self.num2} = {self.num1 - self.num2}"
     def multiply(self):
-        return f"{self.num1}*{self.num2} = {self.num1 * self.num2}"
+        return f"{self.num1} * {self.num2} = {self.num1 * self.num2}"
     def divide(self):
         return f"{self.num1}/{self.num2} = {self.num1 / self.num2}"
 
