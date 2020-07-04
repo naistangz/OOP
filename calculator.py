@@ -6,3 +6,4 @@ Work out and return the area of a triangle
 inch to cm converter
 NOTE -> Must be in class and method format
 """
+

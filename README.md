@@ -3,9 +3,10 @@
 OOP based projects covering Encapsulation, Inheritance, Polymorphism and Abstraction
 
 # Project 1: [Basic Object Oriented Calculator	:abacus:](calculator.py)
+
 ``` bash
-phase 1: Build a simple calculator class containing add, subtract, multiply, divide.
-phase 2: Expand by creating:
+Phase 1: Build a simple calculator class containing add, subtract, multiply, divide.
+Phase 2: Expand by creating:
 Divisible by method that returns true or false dependent on the outcome
 Work out and return the area of a triangle
 inch to cm converter
@@ -13,6 +14,7 @@ NOTE -> Must be in class and method format
 ```
 
 # Project 2: [DNA String Parsing :dna:](dnastring.py)
+
 ```
 A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
 An example of a length 21 DNA string (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is "ATGCTTCAGAAAGGTCTTACG."
