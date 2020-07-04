@@ -55,7 +55,7 @@ Q, Z                               10
 
 ## The 4 pillars of OOP
 
-### Inheritance 
+## Inheritance 
 - Inheritance is a way of creating a new class for using details of an **existing** class without modifying it. The newly formed class is a derived class (or child class). Similarly, the existing class is a base class(or parent class).
 
 Using Inheritance in Python
