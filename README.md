@@ -2,7 +2,7 @@
 
 OOP based projects covering Encapsulation, Inheritance, Polymorphism and Abstraction
 
-# Project 1: [Basic Object Oriented Calculator	:abacus:](calculatorOOP/calculator.py)
+# Project 1: [Basic Object Oriented Calculator	:abacus:](calculatorOOP)
 
 ``` bash
 Phase 1: Build a simple calculator class containing add, subtract, multiply, divide.
