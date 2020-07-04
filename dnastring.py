@@ -20,8 +20,9 @@ class Nucleod:
 
     def count_dna():
         n = input("Please enter your DNA data:\n")
-        print("A: " + str(n.count("A")),"C: "+ str(n.count("C")), "G: " + str(n.count("G")), "T: " + str(n.count("T")))
+        print("Adenine (A): " + str(n.count("A")),"Cystosine (C): "+ str(n.count("C")), "Guanine (G): " + str(n.count("G")), "Thymine (T): " + str(n.count("T")))
 
 
 
 Nucleod.count_dna()
+# Result A: 17 C: 11 G: 16 T: 21
