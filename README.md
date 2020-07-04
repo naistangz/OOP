@@ -2,7 +2,7 @@
 
 OOP based projects covering Encapsulation, Inheritance, Polymorphism and Abstraction
 
-**Project 1: [Basic Object Oriented Calculator	:abacus:](calculator.py)**
+# Project 1: [Basic Object Oriented Calculator	:abacus:](calculator.py)
 ``` bash
 phase 1: Build a simple calculator class containing add, subtract, multiply, divide.
 phase 2: Expand by creating:
@@ -12,7 +12,7 @@ inch to cm converter
 NOTE -> Must be in class and method format
 ```
 
-**Project 2: [DNA String Parsing :dna:](dnastring.py)**
+# Project 2: [DNA String Parsing :dna:](dnastring.py)
 ```
 A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
 An example of a length 21 DNA string (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is "ATGCTTCAGAAAGGTCTTACG."
@@ -28,7 +28,7 @@ Sample Output:
 NOTE -> Must be in class and method format
 ```
 
-**Project 3: [Fizzbuzz :bulb:](fizzbuzz.py)**
+# Project 3: [Fizzbuzz :bulb:](fizzbuzz.py)
 
 ``` bash
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
@@ -36,7 +36,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 NOTE -> Must be in class and method format
 ```
 
-**Project 4: [Scrabble :books:](scrabble.py)**
+# Project 4: [Scrabble :books:](scrabble.py)
 
 ``` bash
 Base Scrabble word calculator instructions
