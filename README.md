@@ -93,7 +93,7 @@ We used the `super()` function inside the `__init__()` method. This allows us to
 
 ---
 
-### Encapsulation 
+## Encapsulation 
 - Concept of encapsulation is to keep together the implementation (code) and the data it manipulates (variables). 
 - Python does not have the private keyword, unlike some other object oriented languages.
 - In python, we can **restrict** access to methods and variables. This prevents data from being modified (encapsulation).
@@ -130,7 +130,7 @@ AttributeError: 'Robot' object has no attribute '__c'
 
 ---
 
-### Polymorphism
+## Polymorphism
 - Poly means many 
 - Morph means change 
 - Polymorphism refers to the ability of an object taking many forms. 
@@ -200,7 +200,7 @@ The `fact()` method for object `a(Square class)` is overridden. However, `fact()
 
 ---
 
-### Abstraction 
+## Abstraction 
 - Abstraction focuses on hiding the internal implementations of a process or method from the user. In this way, the user knows what he is doing but not how the work is being done. 
 - Using a car as an analogy. We drive without knowing what is going on underneath. We use the breaks to stop the car but we don't know how the breaks work. 
 - Another example is a TV set. We watch films without knowing the inner details of how TV works. 
