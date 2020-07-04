@@ -4,8 +4,8 @@ OOP based projects covering Encapsulation, Inheritance, Polymorphism and Abstrac
 
 **Project 1: [Basic Object Oriented Calculator	:abacus:](calculator.py)**
 ``` bash
-phase 1: build a simple calculator class containing add, subtract, multiply, divide.
-phase 2: expand by creating:
+phase 1: Build a simple calculator class containing add, subtract, multiply, divide.
+phase 2: Expand by creating:
 Divisible by method that returns true or false dependent on the outcome
 Work out and return the area of a triangle
 inch to cm converter
@@ -14,7 +14,6 @@ NOTE -> Must be in class and method format
 
 **Project 2: [DNA String Parsing :dna:](dnastring.py)**
 ```
-The Problem
 A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
 An example of a length 21 DNA string (whose alphabet contains the symbols 'A', 'C', 'G', and 'T') is "ATGCTTCAGAAAGGTCTTACG."
 Given: A DNA string s of length at most 1000 nt.
@@ -30,16 +29,30 @@ NOTE -> Must be in class and method format
 ```
 
 **Project 3: [Fizzbuzz :bulb:](fizzbuzz.py)
+
 ``` bash
-
-The Problem
-
-"Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
+Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
 
 NOTE -> Must be in class and method format
 ```
 
 **Project 4: [Scrabble :books:](scrabble.py)
+
+``` bash
+Base Scrabble word calculator instructions
+Given the below scoring create a Scrabble word calculator that will provide the correct scores dependent on the string provided.
+
+Letter                             Value
+A, E, I, O, U, L, N, R, S, T       1
+D, G                               2
+B, C, M, P                         3
+F, H, V, W, Y                      4
+K                                  5
+J, X                               8
+Q, Z                               10
+
+```
+
 ## The 4 pillars of OOP
 
 ### Inheritance 
