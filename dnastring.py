@@ -11,9 +11,6 @@ Sample Output:
 20 12 17 21
 
 """
-
-
-
 sample_dna = "AGCGTGTGGATTAATTACGGGTTCATTCTGACTAGCACAATATGTCTCTAATGATAGCAGCGTGT"
 
 class Nucleod:
@@ -25,4 +22,4 @@ class Nucleod:
 
 
 Nucleod.count_dna()
-# Result A: 17 C: 11 G: 16 T: 21
+# Result Adenine (A): 17 Cystosine (C): 11 Guanine (G): 16 Thymine (T): 21
