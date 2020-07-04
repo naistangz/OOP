@@ -1,6 +1,7 @@
-from calculator import *
+from calculatorOOP.calculator import *
 
 Calc = Simple_Calculator(num1, num2)
+
 while True:
     def menu():
         options = """
