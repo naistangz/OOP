@@ -30,6 +30,6 @@ while True:
         break
     else:
         print("You have not typed in a valid operator, please run the program again.")
-        break
+
 
 
