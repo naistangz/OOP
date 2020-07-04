@@ -28,7 +28,7 @@ Sample Output:
 NOTE -> Must be in class and method format
 ```
 
-**Project 3: [Fizzbuzz :bulb:](fizzbuzz.py)
+**Project 3: [Fizzbuzz :bulb:](fizzbuzz.py)**
 
 ``` bash
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
@@ -36,7 +36,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 NOTE -> Must be in class and method format
 ```
 
-**Project 4: [Scrabble :books:](scrabble.py)
+**Project 4: [Scrabble :books:](scrabble.py)**
 
 ``` bash
 Base Scrabble word calculator instructions
