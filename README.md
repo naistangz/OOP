@@ -208,9 +208,6 @@ The `fact()` method for object `a(Square class)` is overridden. However, `fact()
 - Another example is a TV set. We watch films without knowing the inner details of how TV works. 
 - In Python, abstraction is achieved by using abstract classes and interfaces.
 
-![car_analogy_abstraction](../../images/car_analogy.jpg)
-
-
 ---
 
 ## Key Points to Remember:
