@@ -2,6 +2,14 @@
 
 This program requires user input to select two integers and the appropriate operator to carry out the operation. 
 
+**Entering first and second numbers:**
+
+```bash
+Enter first number:
+Enter second number:
+```
+
+**Selecting the operator:**
 
 ```bash
  Please select one of the following: 
