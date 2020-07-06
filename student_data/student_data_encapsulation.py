@@ -26,6 +26,8 @@ s1.say_hi()
 # self.__salary is hidden
 
 # Accessing private attributes with name mangling
+# Name mangling process helps to access the class variables from outside the class
+# Using a dunder prefix for a class object will 'mangle' or destroy the attribute, and modified
 # Every attribute with double underscore will be changed to _object._class_variable
 # Practice should be refrained
 

@@ -10,3 +10,21 @@ This project adopts all 4 pillars of OOP
 * Student_data.py must be imported in devops_student.py to implement each oop pillar in their respective Repositories
 
 `NOTE: ONLY ONE OOP PILLAR'S FUNCTIONALITY NEEDS TO BE ACHIEVED IN EACH REPO AS PER THEIR NAMES`
+
+## Terminology 
+
+**Name Mangling (also called name decoration)**
+- Python provides private name mangling for class methods and attributes 
+- It is used to prevent accidental internal attribute access
+- 'Mangling' in python is used for 'private' class members by adding dunder prefixes.
+
+```python
+class Test(object):
+    def __mangled_name(self):
+        pass
+    def normal_name(self):
+        pass
+t = Test()
+>>> [attr for attr in dir(t) if 'name' in attr]
+# Returns ['_Test__mangled_name', 'normal_name']          
+```
