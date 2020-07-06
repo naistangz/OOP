@@ -1,4 +1,4 @@
-# Student Data :chart_upwards_trend:
+# Student Data :chart_with_upwards_trend:
 
 This project adopts all 4 pillars of OOP 
 
