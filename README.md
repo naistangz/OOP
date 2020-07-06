@@ -58,10 +58,10 @@ Q, Z                               10
 # Project 5: [Student Data :chart_with_upwards_trend:](student_data)
 
 **Project criteria:**
-* Student_data.py file as a parent class and DevOps_student.py as a child class
-* Each student_data.py Must have at least 2 attributes and 2 methods
-* Each student_data.py must have one public and private method and attribute
-* Student_data.py must be imported in devops_student.py to implement each oop pillar in their respective repositories
+* [Student_data.py](student_data/student_data.py) file as a parent class and [DevOps_student.py](student_data/DevOps_Student.py) as a child class
+* Each [student_data.py](student_data/student_data.py) Must have at least 2 attributes and 2 methods
+* Each [student_data.py](student_data/student_data_encapsulation.py) must have one public and private method and attribute
+* [Student_data.py](student_data/DevOps_Student.py) must be imported in devops_student.py to implement each oop pillar in their respective repositories
 
 ```bash
 Student_data_inheritance
