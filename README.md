@@ -55,7 +55,7 @@ Q, Z                               10
 
 ```
 
-# Project 5: [Student Data :chart_downwards_trend:](student_data)
+# Project 5: [Student Data :chart_with_upwards_trend:](student_data)
 
 **Project criteria:**
 * Student_data.py file as a parent class and DevOps_student.py as a child class
