@@ -1,3 +1,5 @@
+# Encapsulation
+
 class Student:
     def __init__(self, name, ID, age, mood, grade, salary):
         self.name = name

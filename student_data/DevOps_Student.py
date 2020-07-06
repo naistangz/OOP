@@ -1,4 +1,4 @@
-from student_data_inheritance import *
+from student_data import *
 
 # Child class
 class DevOps_student(Student):
@@ -18,16 +18,21 @@ class DevOps_student(Student):
               "\nSkillset:", self.skillset)
 
 
+# Instantiating Student Class (parent class)
 Anais = Student("Anais", "1001", "23", "Happy", "100")
 Anais.say_hi()
+
+# Instantiating Student Class (parent class)
 Saskia = Student("Saskia", 1020, 29, "Confused", 86)
 Saskia.say_hi()
 
+# Instantiating DevOps Student Class (child class)
 bob = DevOps_student("Bob", "1002", "30", "Energised", "95",['Python', 'AWS', 'SQL'])
 bob.say_hi()
 bob.add_skill("Javascript")
 bob.add_skill("Databases")
 
+# Instantiating DevOps Student Class (child class)
 Tina = DevOps_student("Tina", 1045, 45, "Motivated", 96, ['C++', 'Jenkins', 'Excel'])
 Tina.say_hi()
 Tina.add_skill("Java")
